@@ -1,6 +1,6 @@
 # Wedding Seat Problem
 
-## Running in Docker
+## Running in Docker (Linux / Mac)
 
 Pull the Docker image (first time only)
 ```bash
